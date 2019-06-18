@@ -1,0 +1,83 @@
+.page-container{
+    position: relative;
+    width:100%;
+    height:100%;
+    background-size: 100%;
+}
+.pageTop-container{
+    width:100%;
+    height: 60px;
+    background-color: #000000;
+}
+.pageTop-content{
+    width:1315px;
+    height: 60px;
+    margin: 0 auto;
+}
+.logo{
+    position: relative;
+    top: 14.5px;
+}
+.logo-space {
+    width: 265px;
+    height: 60px;
+    float: left;
+}
+.logo-space span{
+    color: white;
+    position: relative;
+    top: 6.5px;
+    font-family: PingFangSC-Light,helvetica neue,Microsoft Yahei,Avenir,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    -webkit-font-smoothing: antialiased;
+}
+.menu-space{
+    width: 680px;
+    height: 60px;
+    line-height:60px;
+    float: left;
+    font-weight: inherit;
+}
+.menu-space .menu{
+    list-style-type: none;
+}
+.menu li{
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    margin: 0px 25px;
+}
+.user-space{
+    width: 350px;
+    height: 60px;
+    line-height:60px;
+    float: left;
+    font-weight: inherit;
+}
+.user li{
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    margin: 0px 25px;
+}
+.login:hover{
+    background-color: #2093F7;
+}
+.show-image{
+    width: 100%;
+    height: 500px;
+    background-color: yellow;
+}
+
+.show-number{
+    width: 100%;
+    height: 130px;
+    background-color: #5daf34;
+}
+.show-process{
+    width: 1200px;
+    height: 470.6px;
+    margin: 0 auto;
+    background-color: #8c939d;
+}
